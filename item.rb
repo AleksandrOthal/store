@@ -9,7 +9,3 @@ class Item
     @weight = weight
   end
 end
-
-
-
-
